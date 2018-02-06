@@ -12,13 +12,16 @@ public class InheritanceTest {
         Child c = new Child();
         c.print();
 */
-/*
         Parent p = new Child();
-        p.display();*/
+        p.print();
+/*
 
         Child c = new Child();
         c.display();
+*/
 
 
     }
+
+
 }
