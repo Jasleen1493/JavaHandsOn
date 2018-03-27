@@ -1,6 +1,6 @@
 package com.thinking.in.java.inheritance;
 /*
-Exercise 10: (1) Modify the previous exercise so that each class only has non-default constructors.
+Exercise1_5 10: (1) Modify the previous exercise so that each class only has non-default constructors.
 */
 public class Pg171Exercise10 {
     public static void main(String[] args) {

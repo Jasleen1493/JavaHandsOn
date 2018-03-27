@@ -2,7 +2,7 @@ package com.thinking.in.java.inheritance;
 
 import java.util.Random;
 
-/*Exercise 18: (2) Create a class with a static final field and a final field and
+/*Exercise1_5 18: (2) Create a class with a static final field and a final field and
 demonstrate the difference between the two.*/
 public class Pg184Exercise18 {
     private String name;
