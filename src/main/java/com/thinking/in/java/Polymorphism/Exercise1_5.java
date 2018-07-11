@@ -2,7 +2,7 @@ package com.thinking.in.java.Polymorphism;
 
 /* Exercise1_5 1: (2) Create a Cycle class, with subclasses Unicycle, Bicycle and Tricycle.
 Demonstrate that an instance of each type can be upcast to Cycle via a ride( ) method.
-Exercise3 5: (1) Starting from Exercise3 1, add a wheels( ) method in Cycle, which
+Exercise4 5: (1) Starting from Exercise4 1, add a wheels( ) method in Cycle, which
 returns the number of wheels. Modify ride( ) to call wheels( ) and verify that
 polymorphism works.*/
 

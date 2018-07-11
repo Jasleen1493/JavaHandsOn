@@ -1,11 +1,11 @@
 package com.thinking.in.java.Polymorphism;
 
-/*Exercise3 6: (1) Change Music3.java so that what( ) becomes the root Object method
+/*Exercise4 6: (1) Change Music3.java so that what( ) becomes the root Object method
 toString( ). Try printing the Instrument objects using System.out.println( ) (without
 any casting).
- Exercise3 7: (2) Add a new type of Instrument to Music3.java and verify that
+ Exercise4 7: (2) Add a new type of Instrument to Music3.java and verify that
 polymorphism works for your new type.
-Exercise3 8: (2) Modify Music3.java so that it randomly creates Instrument objects
+Exercise4 8: (2) Modify Music3.java so that it randomly creates Instrument objects
 the way Shapes.java does. */
 
 import java.util.Random;

@@ -2,7 +2,7 @@ package com.thinking.in.java.Polymorphism;
 
 import java.util.Random;
 
-/* Exercise3 2: (1) Add the @Override annotation to the shapes example. */
+/* Exercise4 2: (1) Add the @Override annotation to the shapes example. */
 public class Exercise2 {
     private static RandomGenerator gen =
             new RandomGenerator();
